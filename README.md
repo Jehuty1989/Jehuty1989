@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alastairhturner@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/oMOU8](shorturl.at/oMOU8)
+- 📄 Know about my experiences [Back-end Developer CV](https://drive.google.com/file/d/1kxyQFJTUssAU-Eu5Mcv8vBSMfxYd1Uvk/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
