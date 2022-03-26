@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alastairhturner@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kxyQFJTUssAU-Eu5Mcv8vBSMfxYd1Uvk/view?usp=sharing](https://drive.google.com/file/d/1kxyQFJTUssAU-Eu5Mcv8vBSMfxYd1Uvk/view?usp=sharing)
+- 📄 Know about my experiences [shorturl.at/oMOU8](shorturl.at/oMOU8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
