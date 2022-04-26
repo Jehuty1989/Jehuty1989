@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alastair</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate software engineer working at <a href="https://noala.co/">Noala</a></h3>
 
 - 🔭 A group project I worked on [OddRecipe](https://github.com/Jehuty1989/oddrecipes)
 
 - 👯 Another group project [Games in the Dungeon](https://github.com/Jehuty1989/games_in_the_dungeon)
 
 - 📫 How to reach me **alastairhturner@gmail.com**
-
-- 📄 Know about my experiences [Back-end Developer CV](https://drive.google.com/file/d/1kxyQFJTUssAU-Eu5Mcv8vBSMfxYd1Uvk/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
