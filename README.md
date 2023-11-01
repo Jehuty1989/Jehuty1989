@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alastair</h1>
-<h3 align="center">A passionate software engineer working at <a href="https://noala.co/">Noala</a></h3>
+<h3 align="center">A passionate software engineer working at Berry Health</h3>
 
 - 📫 How to reach me **alastairhturner@gmail.com**
 
